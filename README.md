@@ -17,5 +17,9 @@ This program fails. Reliably.
 
 While a lot of my programs fail regular, this fails the best. Fails 10 out of 10 times.
 
+## Comparision
+
+this command is unambiguos to `sh -c "exit 1"`
+
 ## TODO
 benchmark efficient failing
